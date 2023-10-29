@@ -1,7 +1,7 @@
 {
     "pages": [
         {
-            "link": { "text": "Home", "url": "index" },
+            "link": { "text": "Home", "url": "" },
             "pageTitle": "Home page",
             "header": "Welcome",
             "headerParagraph": "My name is William, a front-End Developer student.",
