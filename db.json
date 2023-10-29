@@ -1,7 +1,7 @@
 {
     "pages": [
         {
-            "link": { "text": "Home", "url": "index.html" },
+            "link": { "text": "Home", "url": "index" },
             "pageTitle": "Home page",
             "header": "Welcome",
             "headerParagraph": "My name is William, a front-End Developer student.",
@@ -9,7 +9,7 @@
             "content": "HomeView"
         },
         {
-            "link": { "text": "About", "url": "about.html" },
+            "link": { "text": "About", "url": "about" },
             "pageTitle": "About page",
             "header": "My Journey",
             "headerParagraph": "Thank you wifey!",
@@ -17,7 +17,7 @@
             "content": "AboutView"
         },
         {
-            "link": { "text": "Contact", "url": "contact.html" },
+            "link": { "text": "Contact", "url": "contact" },
             "pageTitle": "Contact page",
             "header": "What's up",
             "headerParagraph": "Contact me here!",
@@ -25,7 +25,7 @@
             "content": "ContactView"
         },
         {
-            "link": { "text": "Portfolio", "url": "portfolio.html" },
+            "link": { "text": "Portfolio", "url": "portfolio" },
             "pageTitle": "Portfolio page",
             "header": "Portfolio",
             "headerParagraph": "Previous projects.",
