@@ -12,7 +12,23 @@
                 "contact": {
                     "title": "contact",
                     "paragraph": "project idea?",
-                    "img": "images/Frame.svg"
+                    "img": "images/Frame.svg",
+                    "url": "contact"
+                },
+                "skills": {
+                    "title": "skill examples",
+                    "paragraph": "toolbox",
+                    "img1": "images/icons/html.svg",
+                    "img2": "images/icons/js.svg",
+                    "img3": "images/icons/mongodb-icon.svg",
+                    "img4": "images/icons/figma.svg",
+                    "url": "about#skills"
+                },
+                "portfolio": {
+                    "title": "portfolio",
+                    "paragraph": "legacy",
+                    "img": "images/Frame4.svg",
+                    "url": "portfolio"
                 }
             },
             "pageTitle": "Home page",
