@@ -32,5 +32,40 @@
             "pageSymbol": "&",
             "content": "PortfolioView"
         }
+    ],
+    "portfolio": [
+        {
+            "project-type": "BOOKING APPLICATION",
+            "project-title": "Karkebo Bed & Breakfast",
+            "project-description": "Bed & Breakfast website for a local family business.",
+            "project-development-tools": "Wordpress, Aquentro, Elementor, WooCommerce Motopress, Custom Klarna Integration, WordPress-MultiLingual (cPanel Hosting).",
+            "project-url": "https://bedandbreakfast.karkebo.se/sv/",
+            "project-img": "/images/bed.png"
+        },
+        {
+            "project-type": "E-COMMERCE APPLICATION",
+            "project-title": "Sweets by Nova",
+            "project-description": "Online store for selling chocolate pralines.",
+            "project-development-tools": "Quickbutik, Google Analytics, Custom Klarna Integration.",
+            "project-url": "https://sweetsbynova.se",
+            "project-img": "/images/sweet.png"
+        },
+        {
+            "project-type": "E-COMMERCE APPLICATION",
+            "project-title": "Karkebo Produktion",
+            "project-description": "E-commerce application for a local family business.",
+            "project-development-tools": "Wordpress, Elementor, Crocoblock, WooCommerce, Custom Klarna Integration, WordPress-MultiLingual (cPanel Hosting).",
+            "project-url": "https://karkebo.se",
+            "project-img": "/images/kark.png"
+        },
+        {
+            "project-type": "EVENT APPLICATION",
+            "project-title": "Events App",
+            "project-description": "A minimalistic event application",
+            "project-development-tools": "Vue js, Pinia, Axios, Vite (Netlify Hosting).",
+            "project-url": "https://something.app",
+            "project-img": "/images/something.png"
+        }
+
     ]
 }
