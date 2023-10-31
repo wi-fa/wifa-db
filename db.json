@@ -2,6 +2,19 @@
     "pages": [
         {
             "link": { "text": "Home", "url": "home" },
+            "cards": {
+                "home": {
+                    "title": "me",
+                    "paragraph": "front-end student",
+                    "img": "images/memojiwifa.png",
+                    "url": "about"
+                },
+                "contact": {
+                    "title": "contact",
+                    "paragraph": "project idea?",
+                    "img": "images/Frame.svg"
+                }
+            },
             "pageTitle": "Home page",
             "header": "Welcome",
             "headerParagraph": "My name is William, a front-End Developer student.",
@@ -12,7 +25,7 @@
             "link": { "text": "About", "url": "about" },
             "pageTitle": "About page",
             "header": "My Journey",
-            "headerParagraph": "Thank you wifey!",
+            "headerParagraph": "Thank you wifey &#128154;",
             "pageSymbol": ".",
             "content": "AboutView"
         },
@@ -66,6 +79,5 @@
             "project-url": "https://something.app",
             "project-img": "/images/something.png"
         }
-
     ]
 }
