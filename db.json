@@ -56,7 +56,7 @@
         {
             "link": { "text": "Portfolio", "url": "portfolio" },
             "pageTitle": "Portfolio page",
-            "header": "Portfolio",
+            "header": "Portfolio ",
             "headerParagraph": "Previous projects.",
             "pageSymbol": "&",
             "content": "PortfolioView"
