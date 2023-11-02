@@ -33,7 +33,7 @@
             },
             "pageTitle": "Home page",
             "header": "Welcome",
-            "headerParagraph": "My name is William, a front-End Developer student.",
+            "headerParagraph": "My name is William, a Front-End Developer student.",
             "pageSymbol": ".",
             "content": "HomeView"
         },
