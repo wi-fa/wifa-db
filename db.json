@@ -64,7 +64,7 @@
         {
             "pageTitle": "Thank you page",
             "header": "Thank you",
-            "headerParagraph": "I will get back to you ASAP.",
+            "headerParagraph": "I will reply ASAP.",
             "pageSymbol": "!",
             "content": "ThanksView"
         }
