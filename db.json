@@ -4,20 +4,20 @@
             "link": { "text": "Home", "url": "home" },
             "cards": {
                 "home": {
-                    "title": "me",
-                    "paragraph": "front-end student",
+                    "title": "Me",
+                    "paragraph": "Front-end student",
                     "img": "images/memojiwifa.png",
                     "url": "about"
                 },
                 "contact": {
-                    "title": "contact",
-                    "paragraph": "project idea?",
+                    "title": "Contact",
+                    "paragraph": "Project idea?",
                     "img": "images/Frame.svg",
                     "url": "contact"
                 },
                 "skills": {
-                    "title": "skill examples",
-                    "paragraph": "toolbox",
+                    "title": "Skill examples",
+                    "paragraph": "Toolbox",
                     "img1": "images/icons/html.svg",
                     "img2": "images/icons/js.svg",
                     "img3": "images/icons/mongodb-icon.svg",
@@ -25,8 +25,8 @@
                     "url": "about#skills"
                 },
                 "portfolio": {
-                    "title": "portfolio",
-                    "paragraph": "legacy",
+                    "title": "Portfolio",
+                    "paragraph": "Legacy",
                     "img": "images/Frame4.svg",
                     "url": "portfolio"
                 }
