@@ -60,13 +60,6 @@
             "headerParagraph": "Previous projects.",
             "pageSymbol": "&",
             "content": "PortfolioView"
-        },
-        {
-            "pageTitle": "Thank you page",
-            "header": "Thank you",
-            "headerParagraph": "I will reply ASAP.",
-            "pageSymbol": "!",
-            "content": "ThanksView"
         }
     ],
     "portfolio": [
