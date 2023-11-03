@@ -41,7 +41,7 @@
             "link": { "text": "About", "url": "about" },
             "pageTitle": "About page",
             "header": "My Journey",
-            "headerParagraph": "Thank you wifey",
+            "headerParagraph": "Thank you wifey ",
             "pageSymbol": "❤︎",
             "content": "AboutView"
         },
@@ -67,7 +67,7 @@
             "project-type": "BOOKING APPLICATION",
             "project-title": "Karkebo Bed & Breakfast",
             "project-description": "Bed & Breakfast website for a local family business.",
-            "project-development-tools": "Wordpress, Aquentro, Elementor, WooCommerce Motopress, Custom Klarna Integration, WordPress-MultiLingual (cPanel Hosting).",
+            "project-development-tools": "Wordpress, Elementor, WooCommerce Motopress, Custom Klarna Integration, WordPress-MultiLingual (cPanel Hosting).",
             "project-url": "https://bedandbreakfast.karkebo.se/sv/",
             "project-img": "/images/bed.png"
         },
@@ -95,5 +95,6 @@
             "project-url": "https://something.app",
             "project-img": "/images/something.png"
         }
+
     ]
 }
